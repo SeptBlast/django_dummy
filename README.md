@@ -1,6 +1,6 @@
 # django_dummy
 
-### <b>For Jekins test plz follow ellow steps </b>
+### <b>For Jekins test plz follow bellow steps </b>
 ---
 </br>
 
